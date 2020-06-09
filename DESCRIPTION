@@ -1,0 +1,12 @@
+Package: bdsschema
+Type: Package
+Title: Data Exchange Tools for the Basisdataset JGZ
+Version: 0.1.0
+Author: c(person("Stef", "van Buuren", email = "stef.vanbuuren@tno.nl", role = c("cre", "aut")), 
+             person("Arjan", "Huizing", email = "arjan.huizing@tno.nl", role = "aut"))
+Maintainer: Stef van Buuren <stef.vanbuuren@tno.nl>
+Description: Tools to define, document and validate the format for 
+    exchanging individual health data based on the Basisdataset JGZ.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
