@@ -5,7 +5,12 @@
 
 <!-- badges: start -->
 
+[![Lifecycle:
+superseded](https://img.shields.io/badge/lifecycle-superseded-blue.svg)](https://lifecycle.r-lib.org/articles/stages.html#superseded)
 <!-- badges: end -->
+
+The `bdsschema` packages is superseded by
+[bdsreader](https://github.com/growthcharts/bdsreader).
 
 The goal of `bdsschema` is to define, document and validate the format
 for online data exchange of individual health data conform to the
@@ -15,7 +20,7 @@ definition of the Basisdataset JGZ.
 
 ## Installation
 
-You can install the development version `bdsschema` by
+You can install the development version `bdsschema` by .
 
 ``` r
 install.packages("remotes")
