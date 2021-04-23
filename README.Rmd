@@ -19,7 +19,7 @@ knitr::opts_chunk$set(
 [![Lifecycle: superseded](https://img.shields.io/badge/lifecycle-superseded-blue.svg)](https://lifecycle.r-lib.org/articles/stages.html#superseded)
 <!-- badges: end -->
 
-The `bdsschema` packages is superseded by [bdsreader](https://github.com/growthcharts/bdsreader).
+The `bdsschema` package is superseded by [bdsreader](https://github.com/growthcharts/bdsreader).
 
 The goal of `bdsschema` is to define, document and validate the format for online data exchange of individual health data conform to the Basisdataset JGZ. See <https://www.ncj.nl/themadossiers/informatisering/basisdataset/> for the definition of the Basisdataset JGZ.
 

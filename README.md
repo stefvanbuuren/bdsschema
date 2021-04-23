@@ -9,7 +9,7 @@
 superseded](https://img.shields.io/badge/lifecycle-superseded-blue.svg)](https://lifecycle.r-lib.org/articles/stages.html#superseded)
 <!-- badges: end -->
 
-The `bdsschema` packages is superseded by
+The `bdsschema` package is superseded by
 [bdsreader](https://github.com/growthcharts/bdsreader).
 
 The goal of `bdsschema` is to define, document and validate the format
